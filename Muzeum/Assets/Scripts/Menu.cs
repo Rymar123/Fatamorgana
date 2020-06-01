@@ -12,7 +12,6 @@ public class Menu : MonoBehaviour
 
     public void ExitButton()
     {
-        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
         Application.Quit();
     }
 
